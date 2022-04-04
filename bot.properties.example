@@ -1,5 +1,5 @@
 prefix: !
-token: discord_bot_token
+token: OTU5MTE1MTU2NDY4Njc4NzA2.YkXLmA.qm3Yj688vCitpyuq7iakzq2Bxxw
 db-type: mysql
 db-host: 127.0.0.1
 db-database: bot
